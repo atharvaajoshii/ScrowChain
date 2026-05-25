@@ -82,7 +82,7 @@ function Landing({ setPage, walletAddress, setWalletAddress }) {
             <span style={s.greenDot} /> Live on Sepolia Testnet
           </div>
           <h1 style={s.heroTitle} className="fade-up-2">
-            Trustless Payments<br />
+            Trustworthy Payments<br />
             <span style={s.heroAccent}>for the Global Gig Economy</span>
           </h1>
           <p style={s.heroSub} className="fade-up-3">
