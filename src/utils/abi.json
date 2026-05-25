@@ -1,4 +1,4 @@
-"abi": [
+ [
 		{
 			"inputs": [],
 			"stateMutability": "nonpayable",
@@ -373,7 +373,7 @@
 				{
 					"internalType": "uint256",
 					"name": "_jobId",
-					"type": "uint256"Sa
+					"type": "uint256"
 
 				}
 			],
@@ -395,4 +395,4 @@
 			"stateMutability": "nonpayable",
 			"type": "function"
 		}
-	]S
+	]
